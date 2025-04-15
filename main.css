@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+/* Variables CSS */
+
+:root {
+    --header-height: 3.5rem;
+
+    /* Colors (mode HSL (hue, saturation, lightness)) */
+    --first-color: hsl(43, 90%, 50%);
+    --first-color-alt: hsl(43, 88%, 48%);
+    --text-color: hsl(0, 0%, 42%);
+    --text-color-lighten: hsl(0, 0%, 92%);
+    --black-color: hsl(0, 0%, 0%);
+    --white-color: hsl(0, 0%, 100%);
+    --body-color: hsl(0, 0%, 98%) --body-second-color: hsl(25, 70%, 55%);
+
+
+
+
+}
